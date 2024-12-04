@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import '../../styles/globals.css'
 
 import { RootLayout } from '@/components/root-layout';
 import Header from '@/components/Header';
